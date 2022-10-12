@@ -47,7 +47,7 @@ Se você é completamente novo na área de Dados, é recomendado que se realize 
 ### 💻 **Ferramentas e Linguagens** 
 
 - Python
-- R básico
+- R 
 - Excel 
 - SQL
 - Estruturas de dados
